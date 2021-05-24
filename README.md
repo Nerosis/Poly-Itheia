@@ -3,6 +3,7 @@ This is where all our files are located
 # Artists
 **Software Needed**
 Aseprite (or Piksel)
+
 GitHub Desktop (Recommended, not required)
 
 
@@ -24,8 +25,11 @@ Communicate with your peers and decide whether or not you want to use GitHub for
 *@ me if your are using GitHub for hosting your files*
 # Developers
 **Software Needed:**
+
 Unity Editor (Personal License)
+
 GitHub Desktop
+
 Visual Studio (Easiest to use, other code editors are accepted, as long as they work with Unity)
 
 
